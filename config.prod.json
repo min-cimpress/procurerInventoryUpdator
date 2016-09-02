@@ -1,0 +1,3 @@
+{
+    "IBK-endpoint-getprocurer": "http://kisarazu.inventorybroker.supplychain.cimpress.io:7543/v1/config/manufacturers/urn:Manufacturer:TestWindsorViper/materials/urn:ItemDnaNbr:{Handle}"
+}

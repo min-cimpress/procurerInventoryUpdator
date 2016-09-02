@@ -1,0 +1,4 @@
+{
+    "IBK-endpoint-getprocurer": "http://inventorybroker.supplychain.stg.lex.vistaprint.svc:7543/v1/config/manufacturers/urn:Manufacturer:TestWindsorViper/materials/urn:ItemDnaNbr:{Handle}",
+    "IBK-endpoint-updateprocurerinventory": "http://inventorybroker.supplychain.stg.lex.vistaprint.svc:7543/v1/inventory/procurers/{ProcurerKey}/materials"
+}
